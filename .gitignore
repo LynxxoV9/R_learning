@@ -7,3 +7,13 @@ note-pad.txt
 generer_demonstrations_et_captures.R
 fig_extracted-000.png
 generer_rapport_pdf.py
+
+# Fichiers temporaires de session R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
