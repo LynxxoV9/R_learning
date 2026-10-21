@@ -1,0 +1,9 @@
+captures_ecran/
+Rapport_Bureau_d_Etude_Jeu_du_Serpent.pdf
+.env
+venv/
+Rplots.pdf
+note-pad.txt
+generer_demonstrations_et_captures.R
+fig_extracted-000.png
+generer_rapport_pdf.py
